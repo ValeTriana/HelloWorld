@@ -1,6 +1,7 @@
 # HelloWorld
 <<<<<<< HEAD
 Learning git
+
 En este repositorio estamos realizando una práctica de [git](https://git-scm.com/).
 
 ## Objetivos
