@@ -1,7 +1,6 @@
 # HelloWorld
 
-Learning git
-En este repositorio estamos realizando una práctica de [git](https://git-scm.com/).
+Learning git, en este repositorio estamos realizando una práctica de [git](https://git-scm.com/).
 
 ## Objetivos
 
